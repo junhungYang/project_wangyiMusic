@@ -1,0 +1,418 @@
+{
+  "user": {
+    "background": "/static/img/bg.jpg",
+    "proPic": "/static/img/propic.jpg",
+    "name": "yangjnhung",
+    "level": "lv.8",
+    "newMessage": "21"
+  },
+  "commend0": {
+    "sliderPicUrl": [
+      "/static/img/1.jpg",
+      "/static/img/2.jpg",
+      "/static/img/3.jpg",
+      "/static/img/4.jpg",
+      "/static/img/5.jpg"
+    ],
+    "waterfullList": [{
+      "name": "推荐歌单",
+      "list": [{
+          "pic": "/static/img/6.jpg",
+          "desc": "不可错过的经典卡通音乐",
+          "playAmount": "125万"
+        },
+        {
+          "pic": "/static/img/7.jpg",
+          "desc": "怀旧派对，煤气灯咖啡馆",
+          "playAmount": "100万"
+        },
+        {
+          "pic": "/static/img/8.jpg",
+          "desc": "适合电影编辑的BGM音乐",
+          "playAmount": "120万"
+        },
+        {
+          "pic": "/static/img/9.jpg",
+          "desc": "不可错过的专业航拍BGM",
+          "playAmount": "90万"
+        },
+        {
+          "pic": "/static/img/10.jpg",
+          "desc": "爵士说唱，嘻哈风也可以如此优雅",
+          "playAmount": "110万"
+        },
+        {
+          "pic": "/static/img/11.jpg",
+          "desc": "轻节奏，Jazz hip-hop & 缓拍",
+          "playAmount": "180万"
+        }
+      ]
+    }, {
+      "name": "最新音乐",
+      "list": [{
+          "pic": "/static/img/12.jpg",
+          "desc": "八月，向云雾飘荡的远方眺望",
+          "playAmount": "125万"
+        },
+        {
+          "pic": "/static/img/13.jpg",
+          "desc": "夏天结束之后我们还会在一起吗",
+          "playAmount": "100万"
+        },
+        {
+          "pic": "/static/img/14.jpg",
+          "desc": "香港乐坛女子图鉴(1983-2005)",
+          "playAmount": "120万"
+        },
+        {
+          "pic": "/static/img/15.jpg",
+          "desc": "无限循环! 百首日系优质悦耳R&B",
+          "playAmount": "90万"
+        },
+        {
+          "pic": "/static/img/16.jpg",
+          "desc": "我有清凉曲，足以安慰炎夏",
+          "playAmount": "110万"
+        },
+        {
+          "pic": "/static/img/17.jpg",
+          "desc": "你是我一直以来无处安放的孤单心事",
+          "playAmount": "180万"
+        }
+      ]
+    }]
+  },
+  "commend1": {
+    "waterfullList": [{
+      "name": "主播电台",
+      "list": [{
+          "pic": "/static/img/18.jpg",
+          "desc": "把思恋华为等待，借歌名孤独自白",
+          "palyAmount": "125万"
+        },
+        {
+          "pic": "/static/img/19.jpg",
+          "desc": "国际草原歌曲征集大赛参赛作品",
+          "palyAmount": "100万"
+        },
+        {
+          "pic": "/static/img/20.jpg",
+          "desc": "元气动漫神曲强势来袭",
+          "palyAmount": "120万"
+        },
+        {
+          "pic": "/static/img/21.jpg",
+          "desc": "欢快音符加笑声 承包一天好心情",
+          "palyAmount": "90万"
+        },
+        {
+          "pic": "/static/img/22.jpg",
+          "desc": "在顾得时光里塑造坚强的自己",
+          "palyAmount": "110万"
+        },
+        {
+          "pic": "/static/img/11.jpg",
+          "desc": "心跳物语想和你一起虚度时光",
+          "palyAmount": "180万"
+        }
+      ]
+    }]
+  },
+  "friends": {
+    "cont0": {
+      "proPicList": [{
+        "name": "tony",
+        "picUrl": "/static/img/6.jpg",
+        "isVip": true,
+        "online": false
+      }, {
+        "name": "john",
+        "picUrl": "/static/img/7.jpg",
+        "isVip": false,
+        "online": true
+      }, {
+        "name": "tracy",
+        "picUrl": "/static/img/8.jpg",
+        "isVip": true,
+        "online": true
+      }, {
+        "name": "smith",
+        "picUrl": "/static/img/9.jpg",
+        "isVip": true,
+        "online": false
+      }, {
+        "name": "animee",
+        "picUrl": "/static/img/10.jpg",
+        "isVip": false,
+        "online": false
+      }, {
+        "name": "fancy",
+        "picUrl": "/static/img/11.jpg",
+        "isVip": false,
+        "online": true
+      }, {
+        "name": "simmon",
+        "picUrl": "/static/img/12.jpg",
+        "isVip": true,
+        "online": true
+      }, {
+        "name": "james",
+        "picUrl": "/static/img/13.jpg",
+        "isVip": true,
+        "online": false
+      }, {
+        "name": "love",
+        "picUrl": "/static/img/14.jpg",
+        "isVip": false,
+        "online": true
+      }, {
+        "name": "tony",
+        "picUrl": "/static/img/15.jpg",
+        "isVip": true,
+        "online": false
+      }],
+      "waterfullList": [{
+        "name": "tracy",
+        "propic": "/static/img/11.jpg",
+        "isVip": true,
+        "publishDate": "8月5日",
+        "contText": "一款专注于发现与分享的音乐产品,依托专业音乐人、DJ、好友推荐及社交功能,为用户打造全新的音乐生活。",
+        "contPic": [
+          "/static/img/8.jpg",
+          "/static/img/10.jpg",
+          "/static/img/6.jpg",
+          "/static/img/9.jpg",
+          "/static/img/7.jpg"
+        ]
+      }, {
+        "name": "tony",
+        "propic": "/static/img/6.jpg",
+        "isVip": false,
+        "publishDate": "8月3日",
+        "contText": "春花秋月何时了？往事知多少。小楼昨夜又东风，故国不堪回首月明中。雕栏玉砌应犹在， 只是朱颜改。 ",
+        "contPic": [
+          "/static/img/16.jpg",
+          "/static/img/23.jpg",
+          "/static/img/7.jpg",
+          "/static/img/10.jpg",
+          "/static/img/8.jpg",
+          "/static/img/9.jpg",
+          "/static/img/12.jpg"
+        ]
+      }]
+    },
+    "cont1": {
+      "waterfullList": [{
+          "name": "feng",
+          "propic": "/static/img/21.jpg",
+          "isVip": false,
+          "publishDate": "8月5日",
+          "contText": "肚子饿了，来一首",
+          "contPic": [
+            "/static/img/9.jpg",
+            "/static/img/19.jpg",
+            "/static/img/23.jpg",
+            "/static/img/12.jpg",
+            "/static/img/18.jpg"
+          ]
+        },
+        {
+          "name": "gent",
+          "propic": "/static/img/9.jpg",
+          "isVip": false,
+          "publishDate": "8月3日",
+          "contText": "我在运动你在干啥",
+          "contPic": [
+            "/static/img/15.jpg",
+            "/static/img/14.jpg",
+            "/static/img/22.jpg",
+            "/static/img/9.jpg",
+            "/static/img/18.jpg",
+            "/static/img/16.jpg",
+            "/static/img/15.jpg"
+          ]
+        }
+      ]
+    }
+  },
+  "radio": {
+    "cont0": {
+      "sliderPicUrl": [
+        "/static/img/1-1.jpg",
+        "/static/img/2-2.jpg",
+        "/static/img/3-3.jpg",
+        "/static/img/4-4.jpg",
+        "/static/img/5-5.jpg"
+      ],
+      "superCommend": [{
+        "title": "一款专注于发现与分享的音乐产品",
+        "picUrl": "/static/img/10.jpg",
+        "price": "￥99",
+        "level": "付费精品"
+      }, {
+        "title": "华语|每个人都是一颗独立星球",
+        "picUrl": "/static/img/15.jpg",
+        "price": "￥99",
+        "level": "付费精品"
+      }, {
+        "title": "听了心情会编号的欢快古风消小调",
+        "picUrl": "/static/img/20.jpg",
+        "price": "￥99",
+        "level": "付费精品"
+      }],
+      "waterfullList": [{
+        "picUrl": "/static/img/12.jpg",
+        "programQuantity": 3,
+        "programMC": "tony",
+        "desc": "每天给你带去好音乐"
+      }, {
+        "picUrl": "/static/img/21.jpg",
+        "programQuantity": 1,
+        "programMC": "tracy",
+        "desc": "不可错过的经典卡通音乐"
+      }, {
+        "picUrl": "/static/img/17.jpg",
+        "programQuantity": 3,
+        "programMC": "tom",
+        "desc": "元气动漫神曲强势来袭"
+      }, {
+        "picUrl": "/static/img/22.jpg",
+        "programQuantity": 5,
+        "programMC": "lily",
+        "desc": "我有清凉曲，足以安慰炎夏"
+      }]
+    },
+    "cont1": {
+      "waterfullList": [{
+          "picUrl": "/static/img/18.jpg",
+          "programQuantity": 3,
+          "programMC": "小云",
+          "desc": "你是我一直以来无处安放的孤单心事"
+        },
+        {
+          "picUrl": "/static/img/6.jpg",
+          "programQuantity": 1,
+          "programMC": "小星",
+          "desc": "国际草原歌曲征集大赛参赛作品"
+        },
+        {
+          "picUrl": "/static/img/9.jpg",
+          "programQuantity": 3,
+          "programMC": "倾城之恋",
+          "desc": "无限循环! 百首日系优质悦耳R&B"
+        },
+        {
+          "picUrl": "/static/img/10.jpg",
+          "programQuantity": 5,
+          "programMC": "fireMan",
+          "desc": "怀旧派对，煤气灯咖啡馆"
+        }
+      ]
+    }
+  },
+  "search": {
+    "hotMusic": ["shape of you", "friends", "way back home", "refrain", "attention", "these days", "say you love me"]
+  },
+  "musicList": {
+    "ablum": [{
+      "ablumName": "暮色苍然",
+      "artist": "はちみつれもん",
+      "picture": "/static/img/poster1.png"
+    }, {
+      "ablumName": "체념",
+      "artist": "西原健一郎",
+      "picture": "/static/img/poster2.png"
+    }]
+  },
+  "myAblum": [
+    [{
+      "name": "jazz-hiphop",
+      "quantity": "89",
+      "poster": "/static/img/6.jpg"
+    }, {
+      "name": "Attention",
+      "quantity": "23",
+      "poster": "/static/img/7.jpg"
+    }, {
+      "name": "english",
+      "quantity": "5",
+      "poster": "/static/img/8.jpg"
+    }, {
+      "name": "天门 热门50单曲",
+      "quantity": "50",
+      "poster": "/static/img/9.jpg"
+    }, {
+      "name": "适合设计的音乐",
+      "quantity": "9",
+      "poster": "/static/img/10.jpg"
+    }, {
+      "name": "blues",
+      "quantity": "10",
+      "poster": "/static/img/11.jpg"
+    }],
+    [{
+      "name": "鼓点钢琴",
+      "quantity": "100",
+      "poster": "/static/img/6.jpg"
+    }, {
+      "name": "小众但好听的英文歌",
+      "quantity": "23",
+      "poster": "/static/img/7.jpg"
+    }, {
+      "name": "和风",
+      "quantity": "120",
+      "poster": "/static/img/8.jpg"
+    }, {
+      "name": "eric Clapton合集",
+      "quantity": "50",
+      "poster": "/static/img/9.jpg"
+    }, {
+      "name": "韩语歌",
+      "quantity": "9",
+      "poster": "/static/img/10.jpg"
+    }, {
+      "name": "pop",
+      "quantity": "10",
+      "poster": "/static/img/11.jpg"
+    }]
+  ],
+  "songData": {
+    "song": [{
+      "songname": "喜欢你",
+      "artistname": "邓紫棋"
+    }, {
+      "songname": "These Days",
+      "artistname": "rRudimental/jess Glynne"
+    }, {
+      "songname": "FRIENDS",
+      "artistname": "Marshmello"
+    }, {
+      "songname": "Say You Love Me",
+      "artistname": "西原健一郎"
+    }, {
+      "songname": "고백",
+      "artistname": "Hot Potato"
+    }, {
+      "songname": "드라마(DRAMA)",
+      "artistname": "Nine Muses"
+    }, {
+      "songname": "Never Give Up",
+      "artistname": "Yolanda Adams"
+    }, {
+      "songname": "Shape of You",
+      "artistname": "Ed Sheeran"
+    }, {
+      "songname": "How Long",
+      "artistname": "Charlie Puth"
+    }, {
+      "songname": "We Don't Talk Anymore",
+      "artistname": "Charlie Puth"
+    }, {
+      "songname": "Havana",
+      "artistname": "Camila Cabello"
+    }, {
+      "songname": "Attention",
+      "artistname": "Charlie Puth"
+    }]
+  }
+}
